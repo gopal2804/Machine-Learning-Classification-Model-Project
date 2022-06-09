@@ -41,5 +41,11 @@ There is no missing data in the dataset
 
 ## Evaluation metric used for comparison:
 Here I have build <code>Confusion Mtrix</code> and used <code>accuracy_score</code> to evaluate different models
+
+   ![image](https://user-images.githubusercontent.com/51901743/172945083-12c5be35-6f11-43a2-803f-b85bd2e81195.png)
+   
+   ![image](https://user-images.githubusercontent.com/51901743/172945281-bb7254c5-d743-4829-8669-9926d3572281.png)
+
+
 ## Conclusion
 After constructing and comparing all the models we can see that <code>Decision Tree Classificaton Model</code> fits best for the given dataset because its <code>accuracy is highest i.e. approx 96%</code>
